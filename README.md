@@ -1,6 +1,6 @@
 ## Hi there 👋 
 I have created this repository to showcase my work and collaborate on new projects
- <p> 🏛 I Completed my Masters from University at Buffalo, NY<br>
+ <p> 🏛 I completed my Masters from University at Buffalo, NY<br>
 👯 I’m looking to collaborate on AI projects <br >📫 How to reach me: Email: poorvabh@buffalo.edu</p>
 
 <!--
